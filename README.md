@@ -46,5 +46,5 @@ The following steps were followed in this project:
 |Name     |
 |---------|
 |[Mehmet HALILOGLU](https://github.com/mehmethaliloglu)
-|[Hatice Kubra KUCUKKARTAL](https://github.com/hkubra)
+|[Hatice Kubra KUCUKKARTAL](https://github.com/hkubrakkartal)
 |[Furkan KARAKUZ](https://github.com/10asdf)
